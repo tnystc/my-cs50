@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Much more faster in lower bound
+
+sort2 uses: Merge
+
+How do you know?: Fastest method in random
+
+sort3 uses: Selection
+
+How do you know?: Same in lower and upper bound
