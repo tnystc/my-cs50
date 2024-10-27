@@ -1,0 +1,5 @@
+I would take the average value of characteristic datas such as energy or danceability,
+and sort this values to decide someone's audio aura.
+
+The parameters we use could be insufficent to determine someone's audio aura,
+we can add more characteristic parameters.
